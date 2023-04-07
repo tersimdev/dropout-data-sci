@@ -11,9 +11,9 @@ Things we used:
 columns.info and data_attribute_classes.png desccribe the dataset, and was sourced from the data source.
 
 ### Contributions
-EDA, OHE, Balancing, Anomaly Removal - Terence
-EDA, KNN - Sharmilla
-Decision Tree - Ninnete
+- EDA, OHE, Balancing, Anomaly Removal - Terence
+- EDA, KNN - Sharmilla
+- Decision Tree - Ninnete
 
 ### References
 Kaggle Dataset: https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
